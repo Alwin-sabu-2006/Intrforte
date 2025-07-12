@@ -1,0 +1,4 @@
+import numpy
+x=[1,2,3,4,56,78]
+median=numpy.median(x)
+print(median)
