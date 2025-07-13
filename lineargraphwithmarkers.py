@@ -1,0 +1,5 @@
+import numpy
+import matlibplot.plot as plt
+x=numpy.array([12,3,43,5,4,3])
+plt.plot(x,linestyle='dotted',marker='o')
+plt.show()
